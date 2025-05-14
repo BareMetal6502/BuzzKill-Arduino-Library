@@ -12,4 +12,4 @@ Once installed, check out the supplied example sketches. From the Arduino IDE, j
 
 NOTE: On older versions of the Arduino IDE it may be necessary to re-start the IDE before the examples will be listed in the menu.
 
-Be sure to also check out the [BuzzKill Arduino Library Guide](https://github.com/BareMetal6502/BuzzKill-Arduino-Library/BuzzKill_Arduino_library_guide.pdf). It provides a much more detailed look at the library structure and syntax, and an in-depth summary of all available methods.
+Be sure to also check out the [BuzzKill Arduino Library Guide](BuzzKill_Arduino_library_guide.pdf). It provides a much more detailed look at the library structure and syntax, and an in-depth summary of all available methods.
